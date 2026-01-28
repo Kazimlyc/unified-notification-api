@@ -1,0 +1,4 @@
+name: unified-notification-api
+
+services:
+  container_name: unified-notification-api-container
